@@ -19,8 +19,11 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^6.1.0",
-    "dotenv": "^8.2.0",
     "node-notifier": "^8.0.0",
+    "nodemon": "^2.0.15",
     "ora": "^5.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
   }
 }

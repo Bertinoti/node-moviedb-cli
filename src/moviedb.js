@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+require('dotenv').config()
+const key = require('./Server/.env')
 
 const { Command } = require("commander");
 
